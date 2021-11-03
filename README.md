@@ -8,7 +8,7 @@ My biggest project ive worked on so far has been my blackjack calculator please 
 
 To run this put e.java in a folder with CheckInValues.java.Then, run e.java. Should explain it's self from there. Please leave suggestions, questions, or comments as you wish.
 
-If you choose to improve on my work please feel free, however, I ask you please show me your changes/improvements so I learn and can improve in the furture.
+If you choose to improve on my work please feel free, however, I ask you please show me your changes/improvements so I learn and can improve in furture projects.
 
 <!---
 Spartanguy1031/Spartanguy1031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

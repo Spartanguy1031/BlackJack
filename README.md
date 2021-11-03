@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spartanguy1031
+- 👋 Hi, I’m @Spartanguy1031 or you can call me Joe
 - 👀 I’m interested in optimising and creating working systems and applications
 - 🌱 I’m currently learning Angular, Node, and Python
 - 💞️ I’m looking to collaborate on Java projects

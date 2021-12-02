@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spartanguy1031 or you can call me Joe
-- 👀 I’m interested in optimising and creating working systems and applications
-- 🌱 I’m currently learning Angular, Node, and Python
+- 👀 I’m interested in optimising and creating applications
+- 🌱 I’m currently learning Angular, Node, Java, and Python
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me jcahoon1031@gmail.com with subject line REACH ME
 
